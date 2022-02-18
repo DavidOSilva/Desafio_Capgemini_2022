@@ -10,6 +10,6 @@ Questão 01: https://replit.com/@DavidOSilva/Resolucao-Questao-01#Escada_asteris
 Questão 02: https://replit.com/@DavidOSilva/Resolucao-Questao-02#Senha_forte.cpp
 Questão 03: https://replit.com/@DavidOSilva/Resolucao-Questao-03#Anagramas.cpp
 
-Espero encontrar você na quarta etapa. Até lá ;D
+Espero encontrar você na quarta etapa.
 Cordialmente,
 David Oliveira Silva.
