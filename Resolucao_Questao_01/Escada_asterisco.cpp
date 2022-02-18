@@ -6,7 +6,6 @@ int main() {
   int n;
 
   //Neste trecho você será questionado sobre o valor de n. 
-  cout << "Escreva o valor de n:" << endl;
   cin >> n;
   cout << endl;
 
